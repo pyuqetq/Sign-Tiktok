@@ -11,7 +11,7 @@
 ```
 curl -X "POST" "http://jokeai.zongcaihao.com/tiktok/v872/sign" \
      -H 'Content-Type: application/json' \
-     -d $'{"url": "https://aweme.snssdk.com/aweme/v1/feed/?type=0&max_cursor=0&min_cursor=-1&count=6&volume=0.3333333333333333&pull_type=2&need_relieve_aweme=0&filter_warn=0&req_from&is_cold_start=0&js_sdk_version=1.2.2&app_type=normal&manifest_version_code=321&_rticket=1541682949911&ac=wifi&device_id=59121099964&iid=50416179430&os_version=8.1.0&channel=gray_3306&version_code=330&device_type=ONEPLUS%20A5000&language=zh&vid=C2DD3A72-18E8-490e-B58A-86AD20BB8035&resolution=1080*1920&openudid=27b34f50ff0ba8e26c5747b59bd6d160fbdff384&update_version_code=3216&app_name=aweme&version_name=3.3.0&os_api=27&device_brand=OnePlus&ssmix=a&device_platform=android&dpi=420&aid=1128"}'
+     -d $'{"url": "https://api.tiktokv.com/aweme/v1/feed/?retry_type=no_retry&app_language=zh-Hant&language=zh&region=TW&sys_region=CN&carrier_region=HK&carrier_region_v2=454&build_number=9.2.0&timezone_offset=28800&timezone_name=Asia%2FShanghai&mcc_mnc=46000&is_my_cn=1&fp=PrT_c2LZLMwbFlqMFlU1LSFIJzQZ&account_region=HK&pass-region=1&pass-route=1&iid=6652982632757020421&device_id=6597408310473934338&ac=wifi&channel=googleplay&aid=1233&app_name=musical_ly&version_code=920&version_name=9.2.0&device_platform=android&ab_version=9.2.0&ssmix=a&device_type=ONEPLUS+A5000&device_brand=OnePlus&os_api=27&os_version=8.1.0&openudid=4617150637217100&manifest_version_code=2018111637&resolution=1080*1920&dpi=420&update_version_code=2018111637&_rticket=1543507053287&count=6&type=0&max_cursor=0&min_cursor=-1&pull_type=2"}'
 ```
 
 ## Gen device info(install_id,device_id)
