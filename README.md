@@ -5,7 +5,7 @@
 + This demo if for data analysis purposes only, not available for any other purpose
 + If the project infringes on your company's rights, I will delete it immediately.
 + Demos can only be requested for limited times.  
-+ Any questions, pls email jokeai@yandex.com
++ Any questions, pls email largedata@yandex.com
 
 ## Gen as/cp/mas parameters
 ```
